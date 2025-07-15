@@ -1,0 +1,4 @@
+# .gitignore
+*.vcd
+*.vvp
+*.out
