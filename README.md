@@ -33,7 +33,7 @@ This project implements a **miniature one layer Convolutional Neural Network (CN
 
 ---
 
-## ✅ Tools Used
+## Tools Used
 
 - **Verilog HDL**
 - **Icarus Verilog** (Compilation)
@@ -42,7 +42,7 @@ This project implements a **miniature one layer Convolutional Neural Network (CN
 
 ---
 
-## ▶️ How to Run Image Convolution
+## How to Run Image Convolution
 
    ```terminal
    iverilog -o conv_tb.vvp conv_tb.v conv.v mac.v shift.v register.v
