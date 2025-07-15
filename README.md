@@ -32,6 +32,7 @@ This project implements a **miniature one layer Convolutional Neural Network (CN
 6. **Output**
 
 ---
+![Convolution waveform in gtkwave](gtkwave_conv.png)
 
 ## Tools Used
 
